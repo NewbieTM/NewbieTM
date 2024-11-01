@@ -1,4 +1,4 @@
-![Cat Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw3MnFrdnJkZWRpdndsa3VzaWswOWQ5MWFvMzN3Mnl4YzJsdTE4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Cat Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc3N29zemN2cXRnaW5vaWViYW5ieW04OTRmZ3UwaXlzdG42NmRzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
 
 ## 👨‍💻 Whoami
 My name is Timur, and I am a machine learning researcher currently studying at the Financial University in Moscow, Russia.  
